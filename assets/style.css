@@ -1,0 +1,29 @@
+body{
+    background-image: url("background-brown-carpentry-326311.jpg");
+}
+
+button{
+    color: red;
+    margin-right: 5px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+label{
+    color: red;
+    font-weight: bold;
+}
+
+.submit {
+    color: red;
+    font-weight: bold;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+}
+
+.rating {
+    color: red;
+}

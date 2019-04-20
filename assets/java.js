@@ -25,11 +25,11 @@ $(document).ready(function(){
         //Takes input from form in HTML to add a new button to page/array
         $("#add-food").on("click", function(event){
             event.preventDefault();
-            var food = $("#food-input").val().trim();
+            var food = $("#new-food").val().trim();
 
             //adds food added in food input and pushes to the array and create button for what was added
             foodArray.push(food);
-            $("#food-input").val(" ");
+            $("#new-food").val(" ");
             createButtons();
         });
 
