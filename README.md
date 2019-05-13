@@ -1,5 +1,4 @@
 # GifTastic
-Week 6 Homework
 
 Week 6 homework for Northwestern Coding Bootcamp.
 
@@ -11,3 +10,7 @@ HTML5
 CSS
 Giphy API
 Ajax
+JSON
+Jquery
+
+https://cdperez7.github.io/GifTastic/
